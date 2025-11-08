@@ -7,7 +7,7 @@ int main()
 {
     //test 22
     double PI, D, Area;
-    cout << "Enter the D: ";
+    cout << "Enter ffffffff the D: ";
     cin >> D;
     PI = 3.14;
     D = pow(D, 2);
